@@ -1,1 +1,5 @@
-Tegar mirip leonardo
+nama saya  : muhammad hafizh
+1. Sekarang Create directori 
+2. Comit Pertama
+3. Push Pertama
+4. Commit ke dua
